@@ -1,3 +1,6 @@
+//A0: center
+//A1: left
+//A2: right
 void setup() {
   cli();
   // Setting up ADCSRA, ADCSRB, and ADMUX
